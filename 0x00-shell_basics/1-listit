@@ -1,2 +1,2 @@
- #!/bin/bash
+#!/bin/bash
 echo -e "Dekstop \n Downloads \n Documents \n Music \n Pictures \n Public \n Templates \n Videos"
