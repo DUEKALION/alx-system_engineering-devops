@@ -1,2 +1,2 @@
 #!/bin/bash
-readpath -f
+cd -

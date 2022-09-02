@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "total 24\ndrwxr-xr-x 2 root root 139 Aug 31 18:43 .\ndrwxr-xr-x 4 root root  60 Aug 31 17:56 ..\n-rwxr--r-- 1 root root 106 Aug 31 17:07 0-current_working_directory\n-rwxr--r-- 1 root root  71 Aug 31 18:11 1-listit\n-rwxr--r-- 1 root root  32 Aug 31 17:36 2-bring_me_home\n-rwxr--r-- 1 root root 363 Aug 31 18:30 3-listfiles\n-rwxr--r-- 1 root root 400 Aug 31 18:43 4-listmorefiles\n-rw-r--r-- 1 root root  78 Aug 31 15:46 README.md"
+ls -al | id
