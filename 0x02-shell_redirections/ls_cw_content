@@ -1,5 +1,5 @@
 total 44
-drwxr-xr-x 2 root root 232 Sep  5 16:15 .
+drwxr-xr-x 2 root root 232 Sep  5 16:20 .
 drwxr-xr-x 6 root root 121 Sep  5 05:56 ..
 -rwxr--r-- 1 root root  30 Sep  5 07:40 0-hello_world
 -rwxr--r-- 1 root root  31 Sep  5 07:50 1-confused_smiley
@@ -11,5 +11,5 @@ drwxr-xr-x 6 root root 121 Sep  5 05:56 ..
 -rwxr--r-- 1 root root  74 Sep  5 13:26 7-file
 -rwxr--r-- 1 root root  35 Sep  5 16:14 8-cwd_state
 -rw-r--r-- 1 root root 916 Sep  5 13:07 iacta
--rw-r--r-- 1 root root   0 Sep  5 16:15 ls_cw_content
+-rw-r--r-- 1 root root   0 Sep  5 16:20 ls_cw_content
 -rw-r--r-- 1 root root  42 Sep  5 06:31 README.md
